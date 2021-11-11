@@ -1,2 +1,2 @@
 # iTunes-reset-skip-count
-Resets Skip Count and Last Skipped in iTunes
+AppleScript which resets Skip Count and Last Skipped in iTunes
